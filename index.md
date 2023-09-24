@@ -1,0 +1,18 @@
+# This is an '<h1>' header,which is largest
+
+## This is an '<h2>' header 
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+``` javascript
+var myVar = "Hello, world!";
+```
+
+- [x] Learnt basics of markdown
+- [x] learnt basics of html
+- [ ] Backend dev
